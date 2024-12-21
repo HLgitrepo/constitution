@@ -83,6 +83,7 @@
 - i. The constitution is a document that records the current status of all rules in the clan. No one individual document is the “true” constitution, as such anyone can make their own copy and it would hold as much legal force as any other copy should it display with 100% accuracy the will of the assembly and those whom it has delegated power to.
 - ii. Any modifications to the document must be recorded in a publicly accessible way to enable all copies to retain full accuracy.
 - iii. Any individual may edit the constitution in such a way that improves readability and accessibility without changing the meaning of any part of the document; examples could include (but are not limited to) making the document more concise, adding additional punctuation, fixing spelling mistakes or adding summaries and footnotes.
+- iv. When a member has a doubt on the correct way to interpret the constitution, they can ask the judicial comittee to decide a correct one, then the magistrates will have 48h to put a vote on the senate to approve certain interpretation. This vote should be announced to the clan by an archon or epistates.
 ## d. Committee
 - i. Each department will operate its own Committee, it will be chaired by the respective Secretaries of State.
 - ii. On each Committee all holders of the senior two most positions within that department, and additional ranks of the department selected to be permitted access will hold seats in the department.
