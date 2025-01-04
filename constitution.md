@@ -11,14 +11,15 @@
 - ix. Purposely and illegally restricting the constitutional rights of any HL member.
 - x. Breaching any applicable agreement or law.
 ## b. Courts
-- i. Offences may only be tried if one of the parties involved in the offence was at the time or presently is a member of Hellenic League. Does not apply to helping proscribed people.
+- i. Offences may only be tried if one of the parties involved in the offence was at the time or presently is a member of Hellenic League or of a Hellene. Does not apply to helping proscribed people.
 - ii. The magisterial court's jury is formed by the magistrates.
 - iii. The senatorial court’s jury is formed by the senate.
 - iv. The high court’s jury is formed by the assembly.
 - v. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court that will judge the specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with stake can be part of it.
-- vi. Before starting a trial against a member of a foreign clan (including Hellenes) the prosecution must show evidence of at least one of the following: The foreign clan does not accept report tickets from HL, the foreign clan does not enforce rules its own members for the offence(s) in question or the foreign clan agrees on a breach but declines to engage in resolution.
-- vii. A case cannot be opened if any of the following are true: Both parties are in a state of war with HL, Neither party is a member of HL or a Hellene and the parties are at peace with eachother.
-- viii. Who are the members of the juries are subjected to dynamic change on roles, such elections, appointments, etc.
+- vi. Before starting a trial against a member of a foreign clan the prosecution must show evidence of at least one of the following: The foreign clan does not accept report tickets from HL, the foreign clan does not enforce rules its own members for the offence(s) in question or the foreign clan agrees on a breach but declines to engage in resolution.
+- vii. In the event that the defendant in a case is a member of a Hellene and the case pertains to the hellene as determined by the agreement of both Kritei, then the Hellene will have 48 hours to resolve it internally, and if a resolution cannot be resolved in that period then the issue will return to HL court.
+- viii. A case cannot be opened if any of the following are true: Both parties are in a state of war with HL, Neither party is a member of HL or a Hellene and the parties are at peace with each other.
+- ix. Who the members of the juries are is subjected to dynamic change in roles, such elections, appointments, etc.
 ## c. Trial Process
 - i. The first step - to start a trial - is a person get an accusation or a request and deliver it to a senator, magistrate or their ministers; A trial can be cancelled by the accusation/request side, unless it already happened.
 - ii. The second step is the accusation or request be accepted by any senator, magistrate, or their ministers as being part of the constitution. The party accepting the case must not have a stake (defense or prosecution) in the case, unless there is no uninvolved party able to accept the case.
