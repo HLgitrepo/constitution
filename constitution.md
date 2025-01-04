@@ -25,7 +25,7 @@
 - iii. The third step is the person that make the accusation/request presenting proofs to the competent court (Start with Magisterial court, if the case exceeds 5k Flux then it goes to Senatorial court; Also should follow 1. b. v.).
 - iv. In the fourth step; If its an accusation, the magistrates or their ministers shall try contact the accused(s), the accuseds then will have 48h to respond; If a request have no defendant, then a secretary or minister of a department receiving the request (if dont apply, then any senator) should present themselfs *in contrarium* of the requester.
 - v. In the fifth step, after time passes, or the contact was sucessfull, both sides on trial will have 3 days to present proofs, the method to fix the issue and discuss; The jury may discuss here too; This time can be short if both sides agree.
-- vi. Then in the sixty step, the jury will decide if, and how the issue should be fixed, following the constituition.
+- vi. Then in the sixth step, the jury will decide if, and how the issue should be fixed, following the constituition.
 ## d. Fixing Issues
 - i. For offences commited, if the accused side is found guilty, the jury will decide the sentence, which could be: Payment of physical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offense. They will have 48h to solve the issue or an appeal be accepted, or else they will be proscribed. The victim side can drop charges and make the accused side innocent, if done voluntarily.
 - ii. For other requests, it shall be followed other parts of constituition, and it becomes official after 48h or an appeal be accepted.
