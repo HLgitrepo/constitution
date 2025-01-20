@@ -65,8 +65,8 @@
 - ii. An attack on a member of HL using proper HL and or Hellene tags is an attack on all HL and Hellenes members.
 - iii. A declaration of war on a Hellene or HL is a declaration of war on all Hellenes and HL unless otherwise specified by the warred party.
 - iv. Applying Hellenes need to be approved in a majority vote by the Assembly.
-- v. When HL is at war with any clans, all Hellenes must treat each other as allies.
-- vi. When HL is at peace with all clans, Hellenes are free to choose relations with each other.
+- v. All Hellenes must treat each other as allies.
+- vi. Linguine, THE PREQUEL!
 - vii. Linguine !
 - viii. In order for the Hellenic League to declare war, the assembly must pass a vote to war.
 - ix. Security deposits can only be seized if the senate and/or assembly agrees that a breach of the terms has happened.
