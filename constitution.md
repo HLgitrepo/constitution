@@ -5,7 +5,7 @@
 - iii. Impersonation of people or clans.
 - iv. Ignoring legitimate battle orders from a higher-ranked commander during battle.
 - v. Knowingly or willingly helping proscribed people.
-- vi. Knowingly and willingly lying or deceiving the assembly or any person/group it has delegated power to.
+- vi. KKnowingly and willingly lying or deceiving the assembly or any person/group it has delegated power to when such person/group is acting in their official capacity.
 - vii. Bribing or blackmailing the assembly or any person/group it has delegated power to.
 - viii. Purposely and maliciously destroying, obstructing, or altering evidence of a crime.
 - ix. Purposely and illegally restricting the constitutional rights of any HL member.
