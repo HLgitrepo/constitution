@@ -50,6 +50,7 @@
 ### viii. Campaign promises presented in elections by winning candidates are legally binding, unless the assembly later votes against the implementation.
 ### ix. In all elections there shall be a "none of the above" option. If this option wins enough points to be considered a winning candidate then applications for it shall re-open, if the option obtains 2x, 3x, etc the total votes of the top candidate then the number of positions back up for application shall be adjusted proportionally 2, 3, etc. The number of positions which can then be won will be calculated after deducting the number of positions selected for re-opening.
 ## b. Votes
+- If a vote fail to pass, the status quo is maintained.
 ### i. All citizens can start a vote in the assembly.
 ### ii. All members can vote in the assembly.
 ### iii. All members of the senate can start a vote in the senate.
