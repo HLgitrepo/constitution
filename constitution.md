@@ -73,7 +73,7 @@
 ### vii. Linguine !
 ### viii. In order for the Hellenic League to declare war, the assembly must pass a vote to war.
 ### ix. Security deposits can only be seized if the senate and/or assembly agrees that a breach of the terms has happened.
-### x. If a Hellene does not share all enemies with HL, the members of that Hellene can not use HL tags in their ship name.
+### x. Hellenes are required to follow HL relations as a minimum baseline, they - for example - may ally a HL neutral or neutral a HL no-relation but they may not war or no-relation a HL neutral they also cannot neutral a HL ally (instead must treat them as ally). Additionally they may not be neutral with any HL enemy. This law will cease to hold force and remove itself at 00:00 UTC 01.02.2025 (D.M.Y) unless a senate vote to change the end time changes. The senate may only change this time to a date within 1 week from the date of the start of the vote, if a bigger change is needed the assembly must vote on the matter.
 # 3. Institutions
 ## a. Assembly
 ### i. The assembly is a body consisting of all members of the clan, this institution elects senators and secretaries. Votes are also conducted in the assembly, a vote conducted in the assembly can only be overruled by a later vote by the assembly.
