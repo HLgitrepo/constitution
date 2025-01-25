@@ -2,6 +2,7 @@
 ## a. Offences
 ### i. Griefing, scamming, stealing (outside of missions), or FP robbing.
 ### ii. Shield managing, driving, or attacking against members, allies or neutrals.
+- Body-blocking, shooting (even if not critting it), repeatedly or for a extended and unusual amount of time can be considered "driving against" and in violation of 1.a.ii.
 ### iii. Impersonation of people or clans.
 ### iv. Ignoring legitimate battle orders from a higher-ranked commander during battle.
 ### v. Knowingly or willingly helping proscribed people.
