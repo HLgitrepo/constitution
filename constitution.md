@@ -70,6 +70,7 @@
 - vii. Linguine !
 - viii. In order for the Hellenic League to declare war, the assembly must pass a vote to war.
 - ix. Security deposits can only be seized if the senate and/or assembly agrees that a breach of the terms has happened.
+- x. If a Hellene does not share all enemies with HL, the members of that Hellene can not use HL tags in their ship name.
 # 3. Institutions
 ## a. Assembly
 - i. The assembly is a body consisting of all members of the clan, this institution elects senators and secretaries. Votes are also conducted in the assembly, a vote conducted in the assembly can only be overruled by a later vote by the assembly.
