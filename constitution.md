@@ -64,6 +64,7 @@
 ## c. Hellenes
 ### i. Members of a Hellene clan are entitled to membership of HL.
 ### ii. An attack on a member of HL using proper HL and or Hellene tags is an attack on all HL and Hellenes members.
+- This rule can be enacted for defence pact only in case of illegitimate atacks, such as true offences (outside counter-offence law), or wars involving an hellene and external clans whithowt the agreement of hellene (as specified on 2.c.iii).
 ### iii. A declaration of war on a Hellene or HL is a declaration of war on all Hellenes and HL unless otherwise specified by the warred party.
 ### iv. Applying Hellenes need to be approved in a majority vote by the Assembly.
 ### v. All Hellenes must treat each other as allies.
