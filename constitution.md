@@ -99,7 +99,8 @@
 ### i. Payments are made to people that help and are proportional to the profit produced.
 ### ii. Every day all the profits will be divided up and paid out as balance adjustments in the materials produced.
 ### iii. Balances can be used to buy ships, materials or withdrawn at any reasonable time.
-### iv. People who are proscribed or on trial for a proscribable offence will have their balance frozen. They will not be able to buy, sell, withdraw, and or transfer until this condition is lifted.
+### iv. People who are on trial for a proscribable offence can have their balance frozen by the singular power of Krites. Proscribed ones will have their balance frozen. They will not be able to buy, sell, withdraw, and or transfer until this condition is lifted.
+- The 'trial' period for where the balance can be frozen starts when a case is accepted and ends when the issue is solved, or court decides for innocency, or the victim drops the case.
 ### v. Distribution activities which produce profit must be logged.
 ### vi. Designers will get a total 5% share of all profits made by distribution selling their designs.
 ### vii. In the event that distribution’s total balance of an item exceeds its stock, the system will automatically sell a proportionate amount from all balances to bring it to a reasonable level for distribution operations.
