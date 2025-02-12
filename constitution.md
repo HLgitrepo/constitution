@@ -27,9 +27,13 @@
 ### iv. In the fourth step; If its an accusation, the magistrates or their ministers shall try contact the accused(s), the accuseds then will have 48h to respond; If a request have no defendant, then a secretary or minister of a department receiving the request (if dont apply, then any senator) should present themselfs *in contrarium* of the requester.
 ### v. In the fifth step, after time passes, or the contact was sucessfull, both sides on trial will have 3 days to present proofs, the method to fix the issue and discuss; The jury may discuss here too; This time can be short if both sides agree.
 ### vi. Then in the sixth step, the jury will decide if, and how the issue should be fixed, following the constituition.
+- The jury should use normal voting process on their courts, or agreement of both krites on magisterial court.
 ## d. Fixing Issues
 ### i. For offences commited, if the accused side is found guilty, the jury will decide the sentence, which could be: Payment of physical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offense. They will have 48h to solve the issue or an appeal be accepted, or else they will be proscribed. The victim side can drop charges and make the accused side innocent, if done voluntarily.
+- The jury here should first decide who among the accused are guilty or inocent. In case of tie is decided for inocency.
+- Then in case of guilty, should be positively decided how to fix the offence.
 ### ii. For other requests, it shall be followed other parts of constituition, and it becomes official after 48h or an appeal be accepted.
+- The jury here should agree with the request opener to this happen, or else the status quo stays.
 ### iii. An appeal can be done if at least 3 senators agree; In the case of appeal, the judgment is reseted to the 1.c.iii), and should be done in a higher court. If the first judgement happened on senatorial court, then the second shall be done in the senatorial court again before going to the high court. Cases done in high court will be always re-tried in high court.
 ### iv. The victim side can drop charges and thus make the accused side innocent at any time, if done voluntarily.
 ### v. Once convicted the individual will have 48h to solve the issue as jury decides how to, or for an appeal be accepted, or else they will be proscribed.
