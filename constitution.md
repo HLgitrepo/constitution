@@ -27,10 +27,10 @@
 ### iv. In the fourth step; If its an accusation, the magistrates or their ministers shall try contact the accused(s), the accuseds then will have 48h to respond; If a request have no defendant, then a secretary or minister of a department receiving the request (if dont apply, then any senator) should present themselfs *in contrarium* of the requester.
 ### v. In the fifth step, after time passes, or the contact was sucessfull, both sides on trial will have 3 days to present proofs, the method to fix the issue and discuss; The jury may discuss here too; This time can be short if both sides agree.
 ### vi. Then in the sixth step, the jury will decide if, and how the issue should be fixed, following the constituition.
-- The jury should use normal voting process on their courts, or agreement of both krites on magisterial court.
+- The jury should use normal voting process on their courts, or agreement of both kritai on magisterial court.
 ## d. Fixing Issues
 ### i. For offences commited, if the accused side is found guilty, the jury will decide the sentence, which could be: Payment of physical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offense. They will have 48h to solve the issue or an appeal be accepted, or else they will be proscribed. The victim side can drop charges and make the accused side innocent, if done voluntarily.
-- The jury here should first decide who among the accused are guilty or inocent. In case of tie is decided for inocency.
+- The jury here should first decide who among the accused are guilty or innocent. In case of tie is decided for innocency.
 - Then in case of guilty, should be positively decided how to fix the offence.
 ### ii. For other requests, it shall be followed other parts of constituition, and it becomes official after 48h or an appeal be accepted.
 - The jury here should agree with the request opener to this happen, or else the status quo stays.
@@ -85,7 +85,7 @@
 ### iii. A request on courts can be opened to confirm if a power exercised by a member, two secretaries of a department or a comitee was valid. The both sides on the said case will be who sent the request and the side that did the disputed action.
 ## b. Senate
 ### i. The senate is a body consisting of all senators and secretaries of state, this institution can conduct votes which can overrule decrees but be overruled by the assembly. The senate will also be available to advise individuals and institutions both above and below it on any matters they feel qualified to do so. The senate will also be available to produce reports on any topic for which they are qualified.
-### ii. The senate can only decide matters with a ⅔ majority in either direction - unless otherwise explicitly specified, if a majority in either direction can be reached the matter shall be delegated to the assembly for settling.
+### ii. The senate can only decide matters with a ⅔ majority in either direction - unless otherwise explicitly specified, if a majority in either direction can't be reached the matter shall be delegated to the assembly for settling.
 - Senate votes will last 24 hours or when the minimun required to a decision is made.
 - The percentage will be calculated based on people who voted that are senators at the end of the vote time.
 ### iii. A Senate vote has all the powers that the secretaries have.
