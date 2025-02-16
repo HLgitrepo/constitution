@@ -41,6 +41,7 @@
 ### vii. Proscribed individuals/groups will have their balances frozen and will be under indefinite embargo and kill on sight order.
 ### viii. Offences may be committed against someone if they have committed an offence and you believe they would be convicted for it and you committing an offence against them would reduce the harm done by the original offender's actions. If the person believed to be committing the offence is found innocent in a trial, or the counter-offence is deemed disproportionate (where counter-offence was not preventive or impact reducer), then any people who committed offences against them would be liable for damages caused and a fine.
 ### ix. Any offences may be committed against proscribed individuals with total immunity from prosecution.
+### x. With a standard senatorial majority an individual may have their proscripsion suspended for a period with a maximum (renewable) duration of 1 month.
 # 2. Clan Structure
 ## a. Elections
 ### i. Elections are held on the 1st and 15th of every month. Nominations start at 00:00 UTC on the preceding day and voting starts at 00:00 UTC on the day of the elections with results declared at 00:00 UTC the following day.
