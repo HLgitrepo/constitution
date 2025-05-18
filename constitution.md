@@ -4,7 +4,8 @@
 ### ii. Shield managing, driving, or attacking against members, allies or neutrals outside of pvp event.
 ### iii. Impersonation of people or clans.
 ### iv. Ignoring legitimate battle orders from a higher-ranked commander during battle.
-### v. Knowingly or willingly helping proscribed people.
+### v. Knowingly and willingly helping proscribed people.
+- After reciving a direct notification from any HL member it can be considered from then on that they "know" of the proscribed status.
 ### vi. Knowingly, intentionally, and willingly lying to or deceiving the assembly or any person/group it has delegated power to in a manner that harms HL or obstructs someone using the powers granted to them when such person/group is acting in their official capacity.
 ### vii. Bribing or blackmailing the assembly or any person/group it has delegated power to.
 ### viii. Purposely and maliciously destroying, obstructing, or altering evidence of a crime.
