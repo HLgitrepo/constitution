@@ -73,8 +73,9 @@
 - All sub-clans/puppets/vassals/alt-tags/etc or otherwise subject clans of a Hellene are to - on the basis of their membership within a Hellene - receive the same treatment, rights and obligations as any fully independent/standard Hellene.
 ### i. Members of a Hellene clan are entitled to membership of HL.
 ### ii. An attack made by a non-relation clan on a member of HL or hellene using proper HL and/or Hellene tags is considered a declaration of war.
-### iii. A declaration of war on a Hellene or HL is a declaration of war on all Hellenes and HL unless otherwise specified by the warred party.
-- Put an HL member on a KOS/proscription list is a declaration of war.
+### iii. Be in state of war with any Hellene or HL is a declaration of war on all Hellenes and HL.
+- Put any HL member or Hellene member on a KOS/proscription list or similar is considered a declaration of war.
+- After being warned about by any senator, epistates or commander, a clan with positive relations will have 12 hours to respond until the clause is actionated.
 ### iv. Applying Hellenes need to be approved in a majority vote by the Assembly.
 ### v. All Hellenes must treat each other as allies.
 ### vi. Linguine, THE PREQUEL!
@@ -82,6 +83,8 @@
 ### viii. In order for the Hellenic League to declare war, the assembly must pass a vote to war.
 ### ix. Security deposits can only be seized if the senate and/or assembly agrees that a breach of the terms has happened.
 ### x. Hellenes are required to follow HL relations as a minimum baseline, they - for example - may ally a HL neutral or neutral a HL no-relation but they may not war or no-relation a HL neutral they also cannot neutral a HL ally (instead must treat them as ally). Additionally they may not be neutral with any HL enemy.
+### xi. After any change of relations involving HL: Any senator, epistates or commander that perceives such change must announce in a space considered public to make it official.
+### xii. In order to a clan with positive relations with HL cancel them unilaterally, the (leadership of the) clan must communicate the entire senate (eg. by opening a ticket); Which if  not any senator, epistates or commander announce in 12 hours after, the relation will be considered automatically changed.
 # 3. Institutions
 ## a. Assembly
 ### i. The assembly is a body consisting of all members of the clan, this institution elects senators and secretaries. Votes are also conducted in the assembly, a vote conducted in the assembly can only be overruled by a later vote by the assembly.
