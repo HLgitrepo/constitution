@@ -72,8 +72,7 @@
 ## c. Hellenes
 - All sub-clans/puppets/vassals/alt-tags/etc or otherwise subject clans of a Hellene are to - on the basis of their membership within a Hellene - receive the same treatment, rights and obligations as any fully independent/standard Hellene.
 ### i. Members of a Hellene clan are entitled to membership of HL.
-### ii. An attack on a member of HL using proper HL and or Hellene tags is an attack on all HL and Hellenes members.
-- This rule can be enacted for defence pact only in case of illegitimate atacks, such as true offences (outside counter-offence law), or wars involving an hellene and external clans whithowt the agreement of hellene (as specified on 2.c.iii).
+### ii. An attack made by a non-relation clan on a member of HL or hellene using proper HL and/or Hellene tags is considered a declaration of war.
 ### iii. A declaration of war on a Hellene or HL is a declaration of war on all Hellenes and HL unless otherwise specified by the warred party.
 - Put an HL member on a KOS/proscription list is a declaration of war.
 ### iv. Applying Hellenes need to be approved in a majority vote by the Assembly.
