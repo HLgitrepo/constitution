@@ -1,7 +1,8 @@
 # 1. Rules
 ## a. Offences
 ### i. Griefing, scamming, stealing (outside of missions), or FP robbing.
-### ii. Shield managing, driving, or attacking against members, allies or neutrals outside of pvp event.
+### ii. Shield managing, driving, or attacking against own members, allies or neutrals outside of pvp event or friendly battles.
+- This will only apply if the victim is using proper tags of its clan; Hellene members using their proper tags will be considered here equal other HL ships.
 ### iii. Impersonation of people or clans.
 ### iv. Ignoring legitimate battle orders from a higher-ranked commander during battle.
 ### v. Knowingly and willingly helping proscribed people.
