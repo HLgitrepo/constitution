@@ -22,12 +22,13 @@
 ### vii. Otherwise if is against a member of an Hellene (even if it's also HL member) and the case pertains to the hellene as determined by the agreement of both Kritai, then the Hellene will have 48 hours to resolve it internally, and if a resolution cannot be resolved in that period then the issue will return to HL court.
 ### viii. A case cannot be opened if any of the following are true: Both parties are in a state of war with HL, The victim party is proscribed, Neither party is a member of HL or a Hellene and the parties are at peace with each other.
 ### ix. Who the members of the juries are is subjected to dynamic change in roles, such elections, appointments, etc.
+### x. Cases where the victim is a group that involves the members of all courts can be done in magisterial court if one or both of the kritai are not offender and if value cap allows.
 ## c. Trial Process
 ### i. The first step - to start a trial - is a person get an accusation or a request and deliver it to a senator, magistrate or their ministers; Accusation must contain the victim, defendant and which offence (1.a) was commited, as well a small explanation of the case; Other requests should contain the section of constitution that explain such request and both sides of it. A trial can be cancelled by the accusation/requester side, unless it already happened.
 ### ii. The second step is the accusation or request be accepted by any senator, magistrate, or their ministers as being part of the constitution. The party accepting the case must not have a stake (defense or prosecution) in the case, unless there is no uninvolved party able to accept the case.
 ### iii. The third step is the person that made the accusation/request presenting proofs to the competent court (Start with Magisterial court, if the case exceeds 5k Flux then it goes to Senatorial court; Also should follow 1. b. v.). If the case was appealed, one of the senators that made the current appeal can send the proofs instead who made the accusation/request.
 ### iv. In the fourth step; If its an accusation, the magistrates or their ministers shall try contact the accused(s), the accuseds then will have 48h to respond; If a request have no defendant, then a secretary or minister of a department receiving the request (if dont apply, then any senator) should present themselfs *in contrarium* of the requester.
-### v. In the fifth step, after time passes, or the contact was sucessfull, both sides on trial will have 3 days to present proofs, the method to fix the issue and discuss; The jury may discuss here too; This time can end early if both sides on case agree, or if both kritai agree that the proofs/arguments presented are enough.
+### v. In the fifth step, after time passes, or the contact was sucessfull, both sides on trial will have 3 days to present proofs, the method to fix the issue and discuss; The jury may discuss here too; This time can end early if both sides on case agree, or if judiciary comitee agrees that the proofs/arguments presented are enough.
 ### vi. Then in the sixth step, the jury will decide if, and how the issue should be fixed, following the constituition.
 - The jury should use normal voting process on their courts, or agreement of both kritai on magisterial court.
 ## d. Fixing Issues
@@ -96,8 +97,7 @@
 ### ii. The senate can only decide matters with a ⅔ majority in either direction - unless otherwise explicitly specified, if a majority in either direction can't be reached the matter shall be delegated to the assembly for settling.
 - Senate votes will last 24 hours or when the minimun required to a decision is made.
 - The percentage will be calculated based on people who voted that are senators at the end of the vote time.
-### iii. A Senate vote has all the powers that the secretaries have.
-### iv. A Senate vote has more power than the secretaries, being able to overturn their decisions.
+### iii. A Senate vote has all the powers that the secretaries, ministers and officers have. And can overturn their powers.
 ## c. Constitution
 ### i. The constitution is a document that records the current status of all rules in the clan. No one individual document is the “true” constitution, as such anyone can make their own copy and it would hold as much legal force as any other copy should it display with 100% accuracy the will of the assembly and those whom it has delegated power to.
 ### ii. Any modifications to the document must be recorded in a publicly accessible way to enable all copies to retain full accuracy.
