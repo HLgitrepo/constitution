@@ -180,3 +180,5 @@
 ### iii. Attorneys are officers for this department, they must advocate on cases done in Magisterial court.
 ### iv. Anyone can advocate in cases but the ranks above must pick a side and advocate for it.
 ### v. Advocating in court can never fall under the definition of helping a proscribed person.
+# Appendix:
+1. Will be considered an act of war strawberry have broad (semper, or any other alt name) as a member.
