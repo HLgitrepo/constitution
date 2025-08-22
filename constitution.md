@@ -182,3 +182,4 @@
 ### v. Advocating in court can never fall under the definition of helping a proscribed person.
 # Appendix:
 1. Will be considered an act of war strawberry have broad (semper, or any other alt name) as a member.
+2. The collective power of kritai can decide, after anyone present proofs to them if someone (that is not an HL member) is or no part of "floofy & co" as defined on our proscribeds list.
