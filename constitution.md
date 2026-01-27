@@ -73,7 +73,7 @@
 ### xi. If a vote fails to reach the required majority for its body (including factoring in neutral votes) then it shall be considered undecided. Undecided votes are to pass to the alternate body (senate votes to assembly and assembly votes to senate) for deciding. Should a vote be due to return to its origin chamber (both bodies have failed to come to a conclusion) the vote will be considered concluded in favour of the status-quo.
 ## c. Hellenes
 - All sub-clans/puppets/vassals/alt-tags/etc or otherwise subject clans of a Hellene are to - on the basis of their membership within a Hellene - receive the same treatment, rights and obligations as any fully independent/standard Hellene.
-### i. Members of a Hellene clan are entitled to membership of HL.
+### i. Members of a Hellene clan may automatically gain membership of HL with the rank of Recruit upon proving their membership of a Hellene to a Minister of the Interior. Any member of a Hellene holding a rank within that Hellene not held by more than 50% of that Hellene's membership may automatically gain the rank of Citizen within HL upon proving this status to a Minister of the Interior.
 ### ii. An attack made by a non-relation clan on a member of HL or hellene using proper HL and/or Hellene tags is considered a declaration of war.
 ### iii. Be in state of war with any Hellene or HL is a declaration of war on all Hellenes and HL.
 - Put any HL member or Hellene member on a KOS/proscription list or similar is considered a declaration of war.
