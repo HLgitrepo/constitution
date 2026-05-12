@@ -150,6 +150,8 @@
 ### viii. A person must hold a rank above to be considered member of HL.
 ### ix. Any person can resign any rank.
 ### x. Any change in a member's rank must be communicated to the clan, either by the person who made the change or by an archon/their ministers.
+### xi. Each Hellene can nominate to the Senate aproval of up to two individuals that are HL citizens, and members of said Hellene, to be their Proxenoi.
+- A Proxenos may only represent one Hellene at a time.
 ## b. Department of the Exterior Ranks
 ### i. Admirals are the secretaries state for war and are the top military commanders as well as holding the individual power to neutral clans, enter temporary truces and the collective power to ally clans. Admirals are able to remove Trainees and if both agree they can remove Officers.
 ### ii. Commanders are the Ministers of Admirals, they also have the power to command battles. Prior to becoming a Commander the individual must be a Captain.
