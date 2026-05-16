@@ -1,5 +1,5 @@
-# 1. Rules
-## a. Offences
+# 1. Judicial
+## a. List of Offences
 ### i. Griefing, scamming, stealing (outside of missions or from enemies), or FP robbing.
 ### ii. Shield managing, driving, or attacking against own members, allies or neutrals outside of pvp event or friendly battles.
 - This will only apply if the victim is using proper tags of its clan; Hellene members using their proper tags will be considered here equal other HL ships.
@@ -12,41 +12,51 @@
 ### viii. Purposely and maliciously destroying, obstructing, or altering evidence of a crime.
 ### ix. Purposely and illegally restricting the constitutional rights of any HL member.
 ### x. Breaching any applicable agreement or law.
-## b. Courts
-### i. Offences may only be tried if one of the parties involved in the offence was at the time or presently is a member of Hellenic League or of a Hellene. Does not apply to helping proscribed people.
-### ii. The magisterial court's jury is formed by the magistrates.
-### iii. The senatorial court’s jury is formed by the senate.
-### iv. The high court’s jury is formed by the assembly.
-### v. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court that will judge the specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with stake can be part of it.
-### vi. Before starting a trial against a member of a foreign clan that is not member of HL or any hellene the prosecution must show evidence of at least one of the following: The foreign clan does not accept report tickets made from HL, the foreign clan does not enforce rules its own members for the offence in question, the foreign clan accepted to use HL court or the foreign clan agrees on a breach but declines to engage in resolution.
-### vii. Otherwise if is against a member of an Hellene (even if it's also HL member) and the case pertains to the hellene as determined by the agreement of both Kritai, then the Hellene will have 48 hours to resolve it internally, and if a resolution cannot be resolved in that period then the issue will return to HL court.
-### viii. A case cannot be opened if any of the following are true: Both parties are in a state of war with HL, The victim party is proscribed, Neither party is a member of HL or a Hellene and the parties are at peace with each other.
-### ix. Who the members of the juries are is subjected to dynamic change in roles, such elections, appointments, etc.
-### x. Cases where the victim is a group that involves the members of all courts can be done in magisterial court if one or both of the kritai are not offender and if value cap allows.
-## c. Trial Process
-### i. The first step - to start a trial - is a person get an accusation or a request and deliver it to a senator, magistrate or their ministers; Accusation must contain the victim, defendant and which offence (1.a) was commited, as well a small explanation of the case; Other requests should contain the section of constitution that explain such request and both sides of it. A trial can be cancelled by the accusation/requester side, unless it already happened.
-### ii. The second step is the accusation or request be accepted by any senator, magistrate, or their ministers as being part of the constitution. The party accepting the case must not have a stake (defense or prosecution) in the case, unless there is no uninvolved party able to accept the case.
-### iii. The third step is the person that made the accusation/request presenting proofs to the competent court (Start with Magisterial court, if the case exceeds 5k Flux then it goes to Senatorial court; Also should follow 1. b. v.). If the case was appealed, one of the senators that made the current appeal can send the proofs instead who made the accusation/request.
-### iv. In the fourth step; If its an accusation, the magistrates or their ministers shall try contact the accused(s), the accuseds then will have 48h to respond; If a request have no defendant, then a secretary or minister of a department receiving the request (if dont apply, then any senator) should present themselfs *in contrarium* of the requester.
-### v. In the fifth step, after time passes, or the contact was sucessfull, both sides on trial will have 3 days to present proofs, the method to fix the issue and discuss; The jury may discuss here too; This time can end early if both sides on case agree, or if judiciary comitee agrees that the proofs/arguments presented are enough.
-### vi. Then in the sixth step, the jury will decide if, and how the issue should be fixed, following the constituition.
-- The jury should use normal voting process on their courts, or agreement of both kritai on magisterial court.
-## d. Fixing Issues
-### i. For offences commited, if the accused side is found guilty, the jury will decide the sentence, which could be: Payment of physical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offense. They will have 48h to solve the issue or an appeal be accepted, or else they will be proscribed. The victim side can drop charges and make the accused side innocent, if done voluntarily.
-- The jury here should first decide who among the accused are guilty or innocent. In case of tie is decided for innocency.
-- Then in case of guilty, should be positively decided how to fix the offence.
-### ii. For other requests, it shall be followed other parts of constituition, and it becomes official after 48h or an appeal be accepted.
-- The jury here should agree with the request opener to this happen, or else the status quo stays.
-### iii. An appeal can be done if at least 3 senators agree; In the case of appeal, the judgment is reseted to the 1.c.iii), and should be done in a higher court. If the first judgement happened on senatorial court, then the second shall be done in the senatorial court again before going to the high court. Cases done in high court will be always re-tried in high court.
-### iv. The victim side can drop charges and thus make the accused side innocent at any time, if done voluntarily.
-### v. Once convicted the individual will have 48h to solve the issue as jury decides how to, or for an appeal be accepted, or else they will be proscribed.
-### vi. A list of all proscribed individuals must be made publicly available. Proscribed HL members will be kicked from the clan.
-### vii. Proscribed individuals/groups will have their balances frozen and will be under indefinite embargo and kill on sight order.
-### viii. Offences may be committed against someone if they have committed an offence and you believe they would be convicted for it and you committing an offence against them would reduce the harm done by the original offender's actions. If the person believed to be committing the offence is found innocent in a trial, or the counter-offence is deemed disproportionate (where counter-offence was not preventive or impact reducer), then any people who committed offences against them would be liable for damages caused and a fine.
-### ix. Any offences may be committed against proscribed individuals with total immunity from prosecution.
-### x. With a standard senatorial majority an individual may have their proscripsion suspended for a period with a maximum (renewable) duration of 1 month.
-### xi. In the event that an individual is proscribed any cases in which they (or a clan they lead) is the victim in shall be suspended for the duration of the proscription. If this suspension lasts more than 2 weeks the case may (with collective power of the Krites/κριτης) be considered dropped by the prosecution due to them refusing to acknowledge the legitimacy of the court when it disagrees with them. Furthermore, in the event that there are currently proscribed individuals proscribed for actions against a now proscribed individual shall have this proscriptions suspended for the duration of their victim's proscription. This suspension can be reverted by any senator vetoing the suspension, utilisation of this veto must be followed by that senator starting a senatorial vote to cancel the suspension, for the duration of this vote (and any tie-breaker votes) the proscription will remain in force.
-### xii. It is a power of the millitary commitee to consider a clan that (after a 24hr warning period) still has proscribed individuals as members to have declared war on HL by protecting such individuals.
+## b. Court Structure
+### i. There is three courts: Magisterial (the first, formed by both kritai), Senatorial (formed by the members of senate) and High Court (formed by all citizens).
+- Assembly votes can always override courts.
+- When magistrates or judicial comitee are deciding on court, other intermediary powers cannot override them, unless specified.
+### ii. In order to courts decide matters, a positive proposal should be accepted by 100%, 66% or 50% + 1 for each court. High court votes last only 24h, and only votes casted in this period will count.
+### iii. In order to appeal to the next court, 3 senators must agree. Appeals from High Court always happen again on the same court.
+### iv. For criminal process, victims or plaintiffs cannot be part of the court, unless one of the sides is distribution, senate or assembly.
+### v. For other requests, it works normally.
+### vi. If not enough members of magisterial (2 kritai) or senatorial (66% of senators) courts are found, then the case should start in the next court.
+### vii. If at least half of the members on High Court cannot be part of court, then they can be.
+### viii. Who are the members of courts is subjected to dynamic change in roles, such elections, appointments, etc.
+## c. Criminal Trial Process
+### i. Victims can drop cases at any moment and thus make the accused side innocent, if done voluntarily.
+### ii. Cases can only be started if one of the parties involved in the offence was at the time or presently is a member of Hellenic League or of a Hellene.
+- Except for helping proscribed people.
+### iii. A case cannot be opened if any of the following are true: Both parties are in a state of war with HL, The victim party is proscribed (or was proscribed when the offence happened), Neither party is a member of HL or a Hellene and the parties are at peace with each other.
+### iv. In order to start a case someone need to send to senators and dikegoroi information (offence commited, what can be done to fix, offender individuals and victims) of the case. And then one of them need to accept (except of those who are victim on the case, unless nobody can be found to accept the request).
+### v. Then proofs should be sent to the correct court by the accusation part.
+### vi. If a commander finds that the accused is part of a external clan - but not member of HL or any hellene - they can choose to interrupt the case for 24h to discuss with the external clan.
+### vii. Then one member of the court should try to communicate the accused side and add them to the discussion. If they dont reply in 48h, refuse to participate, or is not found, the case can continue.
+### viii. The accused side can choose the proxenoi of a single hellene they are member of to: replace the magisterial court, or be part of senatorial court. 
+- Exclusion rules apply, meaning that they cant do that in the magisterial court if both proxenoi cannot be part of court, though a single proxenos can be part of senatorial court. In cases, for example, where only one magistrate and one proxenoi can be part of court, they can be the magisterial court.
+### ix. The discussion will last 3 days, more proofs can be presented here by both sides. This may end early if both sides agree, or if the judiciary comitee agrees that the proofs/arguments presented are enough.
+### x. If the accused says that the offence was commited against a victim's offence, in order to reduce it's harm or prevent, and the jury decides that it seems a valid argument, then the case will be frozen until a new case of this original offence finish, however, the accused side will have ony 48h to open this new case.
+- If the victim is find innocent, the case continues. If found guilty, the case ends here, if the victim case get appealed it continues again.
+### xi. The jury should then come with an agreement of which of the accused are guilty.
+- In ties, is decided for innocency.
+- If found innocent, the case ends here.
+### xii. If found guilty the jury must now decide the sentence, which could be: Payment of physical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offence. In some worse cases, an individual may be permantly proscribed.
+- Like previous steps, it must be a positive agreement on which is the sentence.
+- Payments and similar can be done by another person not the offender, they may ask later on a new case to be paid back, or to report break of contract.
+### xiii. If the sentence is not followed in 48h, or a appeal happen, the guilty individuals will be proscribed.
+- The sentence can be followed later to unsproscribe.
+### xiv. In case of appeal the proscription will be suspended and the case will go back to 1.c.vi.
+### xv. A list of all proscribed individuals must be made publicly available. Proscribed HL members will be kicked from the clan.
+### xvi. Proscribed individuals will have their balances frozen and will be under indefinite embargo and kill on sight order.
+### xvii. Proscriptions where the victim is now proscribed (or a clan lead by a proscribed person) can be suspended by the individual power of krites.
+### xviii. The senate have the power to suspend or continue any proscriptions.
+- Except the ones defined by assembly.
+### xix. The power of millitary comitee can stabilish war with clans that have proscribed members. In order to do this a warning must be done and they will have 24h to remove the member.
+## d. Process of Other Requests
+### i. Any HL member can start a request, a senator or dikegoros must accept first, if is part of constitution.
+### ii. The both parties on a discussion that lasts 3 days will be the member and the responsible for requested decision. Allowing other HL members to participate.
+### iii. The jury then must decide if the request is correctly following the law. If so it will become official in 48h, or if an appeal in time send the process again to discussion part.
+
 # 2. Clan Structure
 ## a. Elections
 ### i. Elections are held on the 1st and 15th of every month. Nominations start at 00:00 UTC on the preceding day and voting starts at 00:00 UTC on the day of the elections with results declared at 00:00 UTC the following day.
@@ -87,6 +97,7 @@
 ### x. Hellenes are required to follow HL relations as a minimum baseline, they - for example - may ally a HL neutral or neutral a HL no-relation but they may not war or no-relation a HL neutral they also cannot neutral a HL ally (instead must treat them as ally). Additionally they may not be neutral with any HL enemy.
 ### xi. After any change of relations involving HL: Any senator, epistates or commander that perceives such change must announce in a space considered public to make it official.
 ### xii. In order to a clan with positive relations with HL cancel them unilaterally, the (leadership of the) clan must communicate the entire senate (eg. by opening a ticket); Which if  not any senator, epistates or commander announce in 12 hours after, the relation will be considered automatically changed.
+
 # 3. Institutions
 ## a. Assembly
 ### i. The assembly is a body consisting of all members of the clan, this institution elects senators and secretaries. Votes are also conducted in the assembly, a vote conducted in the assembly can only be overruled by a later vote by the assembly.
@@ -109,6 +120,7 @@
 ### iii. Each Committee will also have observer members, these observer members are external to the department’s normal Committee and will contain all Senators and senior officials from other departments which closely cooperate with each other. These observer members will provide scrutiny, assistance and ideas to support the department in areas it requires assistance.
 ### iv. The Committee will be the main forum for debate on departmental policy and approach, with jobs to be allocated amongst the various members and then sub-allocated to any applicable non-members of the Committee within the department.
 ### v. With a majority of 66% or greater a Committee can overrule and utilise both the individual and collective powers held by the Secretaries of State for that department; they are still however subject to Senatorial overruling.
+
 # 4. Distribution
 ## a. Distribution Systems
 ### i. Payments are made to people that help and are proportional to the profit produced.
@@ -138,6 +150,7 @@
 ### iii. Standard taxes - a set rate of flux paid as a percentage of total amount exchanged - apply to the following systems: Buying ships from distribution, Trading materials with distribution.
 ### iv. Split taxes - where each party pays 1/2 of the standard rate to provide an effective average rate between parties  apply to the following systems: Distribution auctions.
 ### v. Profit taxes - paid as a percentage of profit earned via distribution at 1/4 the standard rate - apply to the following systems: Distribution paycheques.
+
 # 5. Ranks
 ## a. Political Ranks
 ### i. The rank of recruit gives only limited voting powers to those which hold it. This is the lowest rank of the clan and the rank that members of hellenes have the right to have.
@@ -182,6 +195,7 @@
 ### iii. Attorneys are officers for this department, they must advocate on cases done in Magisterial court.
 ### iv. Anyone can advocate in cases but the ranks above must pick a side and advocate for it.
 ### v. Advocating in court can never fall under the definition of helping a proscribed person.
+
 # Appendix:
 1. Will be considered an act of war strawberry have broad (semper, or any other alt name) as a member.
 2. The collective power of kritai can decide, after anyone present proofs to them if someone (that is not an HL member) is or no part of "floofy & co" as defined on our proscribeds list.
