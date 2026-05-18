@@ -44,7 +44,7 @@
 - Payments and similar can be done by another person not the offender, they may ask later on a new case to be paid back, or to report break of contract.
 ### xiii. If the sentence is not followed in 48h, or a appeal happen, the guilty individuals will be proscribed.
 - The sentence can be followed later to unsproscribe.
-- In case of time proscriptions, they need to wait this period or appeal happen.
+- If jury decides for timed/infinite proscription, it will be in value only after the 48 hours so theres time to appeal.
 ### xiv. In case of appeal the proscription will be suspended and the case will go back to 1.c.vi.
 ### xv. A list of all proscribed individuals must be made publicly available. Proscribed HL members will be kicked from the clan.
 ### xvi. Proscribed individuals will have their balances frozen and will be under indefinite embargo and kill on sight order.
