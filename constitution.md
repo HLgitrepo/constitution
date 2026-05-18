@@ -20,13 +20,12 @@
 ### iii. In order to appeal to the next court, 3 senators must agree. Appeals from High Court always happen again on the same court.
 ### iv. For criminal process, victims or plaintiffs cannot be part of the court, unless one of the sides is distribution, senate or assembly.
 ### v. For other requests, it works normally.
-### vi. If not enough members of magisterial (2 kritai) or senatorial (66% of senators) courts are found, then the case should start in the next court.
+### vi. If not enough members of magisterial (2 kritai) or senatorial (66% of senator count) courts are found, then the case should start in the next court if there is enough members as well.
 ### vii. If at least half of the members on High Court cannot be part of court, then they can be.
 ### viii. Who are the members of courts is subjected to dynamic change in roles, such elections, appointments, etc.
 ## c. Criminal Trial Process
 ### i. Victims can drop cases at any moment and thus make the accused side innocent, if done voluntarily.
 ### ii. Cases can only be started if one of the parties involved in the offence was at the time or presently is a member of Hellenic League or of a Hellene.
-- Except for helping proscribed people.
 ### iii. A case cannot be opened if any of the following are true: Both parties are in a state of war with HL, The victim party is proscribed (or was proscribed when the offence happened), Neither party is a member of HL or a Hellene and the parties are at peace with each other.
 ### iv. In order to start a case someone need to send to senators and dikegoroi information (offence commited, what can be done to fix, offender individuals and victims) of the case. And then one of them need to accept (except of those who are victim on the case, unless nobody can be found to accept the request).
 ### v. Then proofs should be sent to the correct court by the accusation part.
@@ -40,15 +39,16 @@
 ### xi. The jury should then come with an agreement of which of the accused are guilty.
 - In ties, is decided for innocency.
 - If found innocent, the case ends here.
-### xii. If found guilty the jury must now decide the sentence, which could be: Payment of physical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offence. In some worse cases, an individual may be permantly proscribed.
+### xii. If found guilty the jury must now decide the sentence, which could be: Payment of physical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offence. In some worse cases, it may added a proscription for a certain period of time, including permanent.
 - Like previous steps, it must be a positive agreement on which is the sentence.
 - Payments and similar can be done by another person not the offender, they may ask later on a new case to be paid back, or to report break of contract.
 ### xiii. If the sentence is not followed in 48h, or a appeal happen, the guilty individuals will be proscribed.
 - The sentence can be followed later to unsproscribe.
+- In case of time proscriptions, they need to wait this period or appeal happen.
 ### xiv. In case of appeal the proscription will be suspended and the case will go back to 1.c.vi.
 ### xv. A list of all proscribed individuals must be made publicly available. Proscribed HL members will be kicked from the clan.
 ### xvi. Proscribed individuals will have their balances frozen and will be under indefinite embargo and kill on sight order.
-### xvii. Proscriptions where the victim is now proscribed (or a clan lead by a proscribed person) can be suspended by the individual power of krites.
+### xvii. Proscriptions where the victim is now proscribed (or in a clan lead by a proscribed person) can be suspended by the individual power of krites.
 ### xviii. The senate have the power to suspend or continue any proscriptions.
 - Except the ones defined by assembly.
 ### xix. The power of millitary comitee can stabilish war with clans that have proscribed members. In order to do this a warning must be done and they will have 24h to remove the member.
