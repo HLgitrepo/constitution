@@ -150,6 +150,22 @@
 ### iii. Standard taxes - a set rate of flux paid as a percentage of total amount exchanged - apply to the following systems: Buying ships from distribution, Trading materials with distribution.
 ### iv. Split taxes - where each party pays 1/2 of the standard rate to provide an effective average rate between parties  apply to the following systems: Distribution auctions.
 ### v. Profit taxes - paid as a percentage of profit earned via distribution at 1/4 the standard rate - apply to the following systems: Distribution paycheques.
+## d. Mortgages
+### i. With collective power of Chancellors, Distribution can offer Mortgage agreements to individuals for the purchase of Good(s).
+### ii. An upfront down-payment of 15% of the value of the Good(s) has to be paid towards the Good(s), Distribution will cover the remaining 85% as the Mortgage.
+- The 15% will be collected from the buyer's balance and distribution will conduct the trade with the seller going first.
+### iii. Until the mortgage is fully paid, Distribution keeps ownership of the Mortgaged Good(s) as collateral. 
+- The buyer can request to have their purchased Good(s) (where safe and possible to do so) to be put into a ship which they have captain on for display purposes, but which remains Distribution owned.
+- The Mortgaged Good(s) will be listed as a locked item in the buyer's balance.
+### iv. The payments will be to a set pattern (i.e. monthly) and include a flat rate, non-compounding interest, the rate of which will be set when the Mortgage agrement is made.
+- There are no additional fees for bulk, late or early repayments.
+### v. In the case that two consecutive payments are missed a Nautrophos will attempt to contact the buyer. If there is no response or payment in 2 weeks, the buyer will be foreclosed.
+- In the event of a foreclosure 75% of the value paid to Distribution will be returned to the buyer.
+- In the event of a foreclosure Distribution will gain ownership the collateral (Mortgaged Good(s)). 
+### vi. Upon full repayment of the Mortgage, the Mortgaged Good(s) will be unlocked in the buyer's balance and may be withdrawn like normal.
+### vii. With the collective power of the Chancellors the debt can be auctioned by Distribution.
+- The debt cannot be sold for less than 105% of the value paid to the seller by Distrbution.
+- In the event of foreclosure on sold debt, distribution will repay the value the debt was bought for subtracted by the value already received
 
 # 5. Ranks
 ## a. Political Ranks
@@ -157,7 +173,7 @@
 ### ii. The rank of citizen gives full membership of the assembly to all that hold it. Recruits can be promoted to citizen. Only citizens can be officer, senator, ministry and/or secretary, as parallels ranks.
 ### iii. The rank of Officer is given to those entrusted to perform specific jobs within a department.
 ### iv. The rank of senator grants all that hold it membership of the senate, this position is elected, the candidate must be a citizen to be able to stand and hold this position. The number of senators is set at 15% of the current member count, rounded to the nearest whole number.
-### v. The rank of Minister has specific powers within their department. If two Ministers are in agreement they may execute the power normally conferred individually onto a Secretary of State, this is subject to veto from another Minister of the same department or the Senate. Ministers are appointed with the agreement of one Secretary of State and a majority of the Senate.
+### v. -----
 ### vi. The rank of Secretary of State gives powers defined within their department. Some powers are "individual", each individual Secretary of State may execute that power subject to Senatorial veto. While other powers are "collective", these powers can only be executed with the agreement of both Secretaries of State, and is subject to Senatorial veto. Elections for Secretaries of State follow the normal procedures, the number of Secretaries of State per department is set at two. Any senator may hold a maximum of two different Secretary of State positions, a candidate must be both a Minister in the correct department and a Senator to stand for election to Secretary of State.
 ### vii. The rank of Apprentice is for beginners on a department, once they get officer on it they lose the Apprentice role, either recruits or citizens can have them as parallel ranks.
 ### viii. A person must hold a rank above to be considered member of HL.
