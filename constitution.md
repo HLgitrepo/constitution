@@ -93,11 +93,11 @@
 ### ix. Any member of a Hellene holding a rank within that Hellene not held by more than 50% of that Hellene's membership may automatically gain the rank of Citizen within HL upon proving this status to a Minister of the Interior.
 ### x. Hellenes are required to follow HL relations as a minimum baseline, they - for example - may ally a HL neutral or neutral a HL no-relation but they may not war or no-relation a HL neutral they also cannot neutral a HL ally (instead must treat them as ally). Additionally they may not be neutral with any HL enemy.
 ### xi. An attack made by a non-relation clan on a member of HL or hellene using proper HL and/or Hellene tags is considered a declaration of war.
-### xii. Be in state of war with any Hellene or HL is a declaration of war on all Hellenes and HL.
-### xiii. Put any HL member or Hellene member on a KOS/proscription list or similar is considered a declaration of war.
+### xii. Being in state of war with any Hellene or HL is a declaration of war on all Hellenes and HL.
+### xiii. Putting any HL member or Hellene member on a KOS/proscription list or similar is considered a declaration of war.
 ### xiv. In order to enact the pact for the 2 above, a commander, senator or proxenos should try contact the external party, which will have 12h to solve the issue.
 ### xv. After any change of relations involving HL: Any senator, commander or proxenos that perceives such change must announce in a space considered public - and where HL members can see - to make it official.
-### xvi. In order to a clan with positive relations with HL cancel them unilaterally, the (leadership of the) clan must communicate HL (By opening a ticket or messaging a commander); Which if not any senator, commander or proxenos announce in 12 hours after, the relation will be considered automatically changed.
+### xvi. In order for a clan with positive relations with HL cancel them unilaterally, the (leadership of the) clan must communicate HL (By opening a ticket or messaging a commander); Which if not any senator, commander or proxenos announce in 12 hours after, the relation will be considered automatically changed.
 - This applies to war declaration, otherwise atacks will be considered backstab.
 ### xvii. The power of military comitee can remove allies/neutrals/enemies from relations if they think the clan is inactive/hybernated or similar.
 - Smaller powers still apply to other situations like enter neutrality with previous enemies.
