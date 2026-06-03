@@ -2,7 +2,7 @@
 ## a. List of Offences
 ### i. Griefing, scamming, stealing (outside of missions or from enemies), or FP robbing.
 ### ii. Shield managing, driving, or attacking against own members, allies or neutrals outside of pvp event or friendly battles.
-- This will only apply if the victim is using proper tags of its clan; Hellene members using their proper tags will be considered here equal other HL ships.
+- This will only apply if the victim is using proper tags of its clan; Hellene members must use HL tags to be protected by this law from external clans.
 ### iii. Impersonation of people or clans.
 ### iv. Ignoring legitimate battle orders from a higher-ranked commander during battle.
 ### v. Knowingly and willingly helping proscribed people.
@@ -81,22 +81,28 @@
 ### ix. No vote can be retroactive.
 ### x. An Assembly vote must be presented to the Senate and must either receive a proofread from 25% of all Senators or 24hrs must elapse since it was first presented to the Senate before a vote may be put to the Assembly. The vote creator cannot proofread their own vote. The comments of the proofreaders are non-binding. When the vote is started, the names of all proofreaders must be listed with their comments (where applicable). If the vote editor edits any component of their vote in response to comments from Senators the proofreads and the timer are both reset.
 ### xi. If a vote fails to reach the required majority for its body (including factoring in neutral votes) then it shall be considered undecided. Undecided votes are to pass to the alternate body (senate votes to assembly and assembly votes to senate) for deciding. Should a vote be due to return to its origin chamber (both bodies have failed to come to a conclusion) the vote will be considered concluded in favour of the status-quo.
-## c. Hellenes
-- All sub-clans/puppets/vassals/alt-tags/etc or otherwise subject clans of a Hellene are to - on the basis of their membership within a Hellene - receive the same treatment, rights and obligations as any fully independent/standard Hellene.
-### i. Members of a Hellene clan may automatically gain membership of HL with the rank of Recruit upon proving their membership of a Hellene to a Minister of the Interior. Any member of a Hellene holding a rank within that Hellene not held by more than 50% of that Hellene's membership may automatically gain the rank of Citizen within HL upon proving this status to a Minister of the Interior.
-### ii. An attack made by a non-relation clan on a member of HL or hellene using proper HL and/or Hellene tags is considered a declaration of war.
-### iii. Be in state of war with any Hellene or HL is a declaration of war on all Hellenes and HL.
-- Put any HL member or Hellene member on a KOS/proscription list or similar is considered a declaration of war.
-- After being warned about by any senator, epistates or commander, a clan with positive relations will have 12 hours to respond until the clause is actionated.
-### iv. Applying Hellenes need to be approved in a majority vote by the Assembly.
-### v. All Hellenes must treat each other as allies.
-### vi. Linguine, THE PREQUEL!
-### vii. Linguine !
-### viii. In order for the Hellenic League to declare war, the assembly must pass a vote to war.
-### ix. Security deposits can only be seized if the senate and/or assembly agrees that a breach of the terms has happened.
-### x. Hellenes are required to follow HL relations as a minimum baseline, they - for example - may ally a HL neutral or neutral a HL no-relation but they may not war or no-relation a HL neutral they also cannot neutral a HL ally (instead must treat them as ally). Additionally they may not be neutral with any HL enemy.
-### xi. After any change of relations involving HL: Any senator, epistates or commander that perceives such change must announce in a space considered public to make it official.
-### xii. In order to a clan with positive relations with HL cancel them unilaterally, the (leadership of the) clan must communicate the entire senate (eg. by opening a ticket); Which if  not any senator, epistates or commander announce in 12 hours after, the relation will be considered automatically changed.
+## c. Hellenes & External Clans
+### i. Linguine !
+### ii. To neutral an external clan, the individual power of military comitee is required.
+### iii. To ally, the collective power.
+### iv. To declare war, an assembly vote is needed.
+### v. To a clan become hellene, an assembly vote is needed. Unless otherwise specified.
+### vi. All sub-clans/puppets/vassals/alt-tags/etc or otherwise subject clans of a Hellene/External clans, receive the same treatment, rights and obligations of their parent clan.
+### vii. All Hellenes must treat each other as allies.
+### viii. Members of a Hellene clan may automatically gain membership of HL with the rank of Recruit upon proving their membership of a Hellene to a Minister of the Interior.
+### ix. Any member of a Hellene holding a rank within that Hellene not held by more than 50% of that Hellene's membership may automatically gain the rank of Citizen within HL upon proving this status to a Minister of the Interior.
+### x. Hellenes must treat HL allies/neutrals like their own allies/neutrals, and stay in war with HL enemies.
+### xi. An attack made by a non-relation clan on a member of HL or hellene using proper HL and/or Hellene tags is considered a declaration of war.
+### xii. Being in state of war with any Hellene or HL is a declaration of war on all Hellenes and HL.
+### xiii. Putting any HL member or Hellene member on a KOS/proscription list or similar is considered a declaration of war.
+### xiv. In order to enact the Hellene Pact, a commander, senator or proxenos should try contact the external party, which will have 12h to solve the issue.
+- With the exception of atacks from non-relation clans.
+### xv. After any change of relations involving HL: Any senator, commander or proxenos that perceives such change must announce in a space considered public - and where HL members can see - to make it official.
+### xvi. In order for a clan with positive relations with HL cancel them unilaterally, the (leadership of the) clan must communicate HL (By opening a ticket or messaging a commander); Which if not any senator, commander or proxenos announce in 12 hours after, the relation will be considered automatically changed.
+- This applies to war declaration, otherwise atacks will be considered backstab.
+### xvii. The power of military comitee can remove allies/neutrals/enemies from relations if they think the clan is inactive/hybernated or similar.
+- Smaller powers still apply to other situations like enter neutrality with previous enemies.
+### xviii. Security deposits can only be seized if the senate and/or assembly agrees that a breach of the terms has happened.
 
 # 3. Institutions
 ## a. Assembly
@@ -182,7 +188,7 @@
 ### xi. Each Hellene can nominate to the Senate aproval of up to two individuals that are HL citizens, and members of said Hellene, to be their Proxenoi.
 - A Proxenos may only represent one Hellene at a time.
 ## b. Department of the Exterior Ranks
-### i. Admirals are the secretaries state for war and are the top military commanders as well as holding the individual power to neutral clans, enter temporary truces and the collective power to ally clans. Admirals are able to remove Trainees and if both agree they can remove Officers.
+### i. Admirals are the secretaries state for war and are the top military commanders, they are able to remove Trainees and if both agree they can remove Officers.
 ### ii. Commanders are the Ministers of Admirals, they also have the power to command battles. Prior to becoming a Commander the individual must be a Captain.
 ### iii. Captain is the upper military officer rank; they hold tactical command over a specific battle space and are responsible for micromanaging ships in their immediate area. Captains are appointed upon receiving the support of at least two commanders and one Admiral. Captains hold observer seats on the military Committee.
 ### iv. Corporal is the lower military officer rank; They are pilots qualified for piloting critical ships in battle on a regular basis as well as commanding trainees within a squad when nobody more senior is present. Corporals are appointed following them receiving support from at least two commanders.
