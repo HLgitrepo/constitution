@@ -84,7 +84,8 @@
 ## c. Hellenes & External Clans
 ### i. Linguine !
 ### ii. To neutral an external clan, the individual power of military comitee is required.
-### iii. To ally, the collective power.
+### iii. In order to a clan ally HL, the collective power of military must agree. In the next 12 hours this external clan must ally every Hellene and HL's ally. Aditionally, the external clan cannot ally clans that are not HL ally.
+- Not following the alliance or removing one ally withowt both admirals aproval, will allow the clan to be downgrade to neutral by any commander.
 ### iv. To declare war, an assembly vote is needed.
 ### v. To a clan become hellene, an assembly vote is needed. Unless otherwise specified.
 ### vi. All sub-clans/puppets/vassals/alt-tags/etc or otherwise subject clans of a Hellene/External clans, receive the same treatment, rights and obligations of their parent clan.
