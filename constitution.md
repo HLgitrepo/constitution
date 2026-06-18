@@ -48,7 +48,7 @@
 ### xiv. In case of appeal the proscription will be suspended and the case will go back to 1.c.vi.
 ### xv. A list of all proscribed individuals must be made publicly available. Proscribed HL members will be kicked from the clan.
 ### xvi. Proscribed individuals will have their balances frozen and will be under indefinite embargo and kill on sight order.
-### xvii. Proscriptions where the victim is now proscribed (or in a clan lead by a proscribed person) can be suspended by the individual power of krites.
+### xvii. Proscriptions where the victim is now proscribed (or in a clan lead by a proscribed person) can be suspended by the individual power of kritehs.
 ### xviii. The senate have the power to suspend or continue any proscriptions.
 - Except the ones defined by assembly.
 ### xix. The power of millitary comitee can stabilish war with clans that have proscribed members. In order to do this a warning must be done and they will have 24h to remove the member.
@@ -108,33 +108,33 @@
 
 # 3. Institutions
 ## a. Assembly
-### i. The assembly is a body consisting of all members of the clan, this institution elects senators and secretaries. Votes are also conducted in the assembly, a vote conducted in the assembly can only be overruled by a later vote by the assembly.
+### i. The assembly is a body consisting of all members of the clan, this institution elects senators and archons. Votes are also conducted in the assembly, a vote conducted in the assembly can only be overruled by a later vote by the assembly.
 ### ii. All powers are the exclusive reserve of the assembly unless otherwise delegated; the assembly can never remove its right to exercise any powers, it may only grant permission for others to exercise them on its behalf.
-### iii. A request on courts can be opened to confirm if a power exercised by a member, two secretaries of a department or a comitee was valid. The both sides on the said case will be who sent the request and the side that did the disputed action.
+### iii. A request on courts can be opened to confirm if a power exercised by a member, two archons of a department or a comitee was valid. The both sides on the said case will be who sent the request and the side that did the disputed action.
 ## b. Senate
-### i. The senate is a body consisting of all senators and secretaries of state, this institution can conduct votes which can overrule decrees but be overruled by the assembly. The senate will also be available to advise individuals and institutions both above and below it on any matters they feel qualified to do so. The senate will also be available to produce reports on any topic for which they are qualified.
+### i. The senate is a body consisting of all senators, this institution can conduct votes which can overrule decrees but be overruled by the assembly. The senate will also be available to advise individuals and institutions both above and below it on any matters they feel qualified to do so. The senate will also be available to produce reports on any topic for which they are qualified.
 ### ii. The senate can only decide matters with a ⅔ majority in either direction - unless otherwise explicitly specified, if a majority in either direction can't be reached the matter shall be delegated to the assembly for settling.
 - Senate votes will last 24 hours or when the minimun required to a decision is made.
 - The percentage will be calculated based on people who voted that are senators at the end of the vote time.
-### iii. A Senate vote has all the powers that the secretaries, ministers and officers have. And can overturn their powers.
+### iii. A Senate vote has all the powers that the archons, ministers and officers have. And can overturn their powers.
 ## c. Constitution
 ### i. The constitution is a document that records the current status of all rules in the clan. No one individual document is the “true” constitution, as such anyone can make their own copy and it would hold as much legal force as any other copy should it display with 100% accuracy the will of the assembly and those whom it has delegated power to.
 ### ii. Any modifications to the document must be recorded in a publicly accessible way to enable all copies to retain full accuracy.
 ### iii. Any individual may edit the constitution in such a way that improves readability and accessibility without changing the meaning of any part of the document; examples could include (but are not limited to) making the document more concise, adding additional punctuation, fixing spelling mistakes or adding summaries and footnotes.
 ### iv. When a member has a concern regarding the meaning of an area in the constitution, they can ask any Senator to help them draft a footnote for the clause in question to fix the issue and clarify the matter. The draft will be put to the Senate for a vote, if passed it will be added as a footnote with citation to the area of the clause in question. If a subsequent vote alters the text of the area cited the footnotes shall be removed.
 ## d. Committee
-### i. Each department will operate its own Committee, it will be chaired by the respective Secretaries of State.
+### i. Each department will operate its own Committee, it will be chaired by the respective archons.
 ### ii. On each Committee all holders of the senior two most positions within that department, and additional ranks of the department selected to be permitted access will hold seats in the department.
 ### iii. Each Committee will also have observer members, these observer members are external to the department’s normal Committee and will contain all Senators and senior officials from other departments which closely cooperate with each other. These observer members will provide scrutiny, assistance and ideas to support the department in areas it requires assistance.
 ### iv. The Committee will be the main forum for debate on departmental policy and approach, with jobs to be allocated amongst the various members and then sub-allocated to any applicable non-members of the Committee within the department.
-### v. With a majority of 66% or greater a Committee can overrule and utilise both the individual and collective powers held by the Secretaries of State for that department; they are still however subject to Senatorial overruling.
+### v. With a majority of 66% or greater a Committee can overrule and utilise both the individual and collective powers held by the archons for that department; they are still however subject to Senatorial overruling.
 
 # 4. Distribution
 ## a. Distribution Systems
 ### i. Payments are made to people that help and are proportional to the profit produced.
 ### ii. Every day all the profits will be divided up and paid out as balance adjustments in the materials produced.
 ### iii. Balances can be used to buy ships, materials or withdrawn at any reasonable time.
-### iv. People who are on trial for a proscribable offence can have their balance frozen by the singular power of Krites. Proscribed ones will have their balance frozen. They will not be able to buy, sell, withdraw, and or transfer until this condition is lifted.
+### iv. People who are on trial for a proscribable offence can have their balance frozen by the singular power of kritehs. Proscribed ones will have their balance frozen. They will not be able to buy, sell, withdraw, and or transfer until this condition is lifted.
 - The 'trial' period for where the balance can be frozen starts when a case is accepted and ends when the issue is solved, or court decides for innocency, or the victim drops the case.
 ### v. Distribution activities which produce profit must be logged.
 ### vi. Designers will get a total 5% share of all profits made by distribution selling their designs.
@@ -177,46 +177,40 @@
 
 # 5. Ranks
 ## a. Political Ranks
-### i. The rank of recruit gives only limited voting powers to those which hold it. This is the lowest rank of the clan and the rank that members of hellenes have the right to have.
-### ii. The rank of citizen gives full membership of the assembly to all that hold it. Recruits can be promoted to citizen. Only citizens can be officer, senator, ministry and/or secretary, as parallels ranks.
-### iii. The rank of Officer is given to those entrusted to perform specific jobs within a department.
-### iv. The rank of senator grants all that hold it membership of the senate, this position is elected, the candidate must be a citizen to be able to stand and hold this position. The number of senators is set at 15% of the current member count, rounded to the nearest whole number.
-### v. The rank of Minister has specific powers within their department. Ministers can be promoted or demoted with the agreement of one Secretary of State for that department and a Senate vote. A vote between ministers can be done to execute the individual power of secretary, this vote will end when 3 agree or when 1 deny.
-### vi. The rank of Secretary of State gives powers defined within their department. Some powers are "individual", each individual Secretary of State may execute that power subject to Senatorial veto. While other powers are "collective", these powers can only be executed with the agreement of both Secretaries of State, and is subject to Senatorial veto. Elections for Secretaries of State follow the normal procedures, the number of Secretaries of State per department is set at two. Any senator may hold a maximum of two different Secretary of State positions, a candidate must be both a Minister in the correct department and a Senator to stand for election to Secretary of State.
+### i. The rank of Xenos [Recruit] (ξενος) gives only limited voting powers to those which hold it. This is the lowest rank of the clan and the rank that members of hellenes have the right to have.
+### ii. The rank of Politeia [Citizen] (πολιτεια) gives full membership of the assembly to all that hold it. Recruits can be promoted to citizen. Only citizens can be officer, senator, ministry and/or archon, as parallels ranks.
+### iii. The rank of Tagomeros [Officer] (ταγομερος) is given to those entrusted to perform specific jobs within a department.
+### iv. The rank of Bouleutehs [Senator] (βουλευτης) grants all that hold it membership of the senate, this position is elected, the candidate must be a citizen to be able to stand and hold this position. The number of senators is set at 15% of the current member count, rounded to the nearest whole number.
+### v. The rank of Arkhehmeros [Minister] (ὰρχημερος) has specific powers within their department. Ministers can be promoted or demoted with the agreement of one Archon of State for that department and a Senate vote. A vote between ministers can be done to execute the individual power of archon, this vote will end when 3 agree or when 1 deny.
+### vi. The rank of Arkhon [Archon] (αρχων) gives powers defined within their department. Some powers are "individual", each individual Archon may execute that power subject to Senatorial veto. While other powers are "collective", these powers can only be executed with the agreement of both archons, and is subject to Senatorial veto. Elections for archons follow the normal procedures, the number of archons per department is set at two. Any senator may hold a maximum of two different Archon positions, a candidate must be both a Minister in the correct department and a Senator to stand for election to Archon.
 ### vii. The rank of Apprentice is for beginners on a department, once they get officer on it they lose the Apprentice role, either recruits or citizens can have them as parallel ranks.
 ### viii. A person must hold a rank above to be considered member of HL.
 ### ix. Any person can resign any rank.
-### x. Any change in a member's rank must be communicated to the clan, either by the person who made the change or by an archon/their ministers.
+### x. Any change in a member's rank must be communicated to the clan, either by the person who made the change or by any senator.
 ### xi. Each Hellene can nominate to the Senate aproval of up to two individuals that are HL citizens, and members of said Hellene, to be their Proxenoi.
-- A Proxenos may only represent one Hellene at a time.
+- A Proxenos [Ambassador] (προχενος) may only represent one Hellene at a time.
 ## b. Department of the Exterior Ranks
-### i. Admirals are the secretaries state for war and are the top military commanders, they are able to remove Trainees and if both agree they can remove Officers.
-### ii. Commanders are the Ministers of Admirals, they also have the power to command battles. Prior to becoming a Commander the individual must be a Captain.
-### iii. Captain is the upper military officer rank; they hold tactical command over a specific battle space and are responsible for micromanaging ships in their immediate area. Captains are appointed upon receiving the support of at least two commanders and one Admiral. Captains hold observer seats on the military Committee.
-### iv. Corporal is the lower military officer rank; They are pilots qualified for piloting critical ships in battle on a regular basis as well as commanding trainees within a squad when nobody more senior is present. Corporals are appointed following them receiving support from at least two commanders.
-### v. Trainees are the lowest ranked people within the military command structure and are yet to be fully qualified. They should not drive critical ships unless there is a critical need for them to. Trainees are accepted by agreement of at least one commander. They will be expected to continue their training after being accepted.
+### i. Nauarkhos [Admiral] (ναυαρχος) is the archon of war, both are the top military commanders, with collective power they can promote/demote officers of this department, and individually promote/demote Trainees.
+### ii. Stratehgos [Commander] (στρατηγος) the minister role; They also have the power to command battles.
+### iii. Lokhagos [Captain] (λοχαγος) is the upper military officer rank; they hold tactical command over a specific battle space and are responsible for micromanaging ships in their immediate area. Captains hold observer seats on the military Committee.
+### iv. Spartiatehs [Corporal] (σπαρτιατης) is the lower military officer rank; They are pilots qualified for piloting critical ships in battle on a regular basis as well as commanding trainees within a squad when nobody more senior is present.
+### v. Heiloutehs [Trainee] (εἱλωτης) is the lowest rank in military command structure (apprendices). They should not drive critical ships unless there is a critical need for them to.
 ### vi. An unranked recruit or citizen should not drive ships in battle unless directly ordered to do so in an emergency. Civilian members are not subject to orders from the military chain of command when not within the proximity of an ongoing, imminently, or very recently, active battle area.
 ## c. Distribution Department Ranks
-### i. Kankelarioi are the Secretaries of State for the economy. They have the collective power to, organise and manage the distribution fleet and to appoint/demote new officers; and the individual power to handle all withdrawals Hellenotamiae cannot and appoint/demote Georgoi.
-### ii. Nautrophoi are the Ministers of the distribution department, they must hold at minimum the military position of corporal and be a Telonis.
-### iii. Telonis are officers that manage a group of farmers and/or mission ships for the Georgoi, they are responsible for unloading, logging and refilling the ships as well as repairing any light damage that is sustained. As a part of their work they log themselves as “unloaders” entitling them to 5% of all produced material. Standard leasing balance freeze rules apply except for if the individual is the original donor of the ship to the distribution fleet.
-### iv. Hellenotamiae are officers that serve the role of handling withdrawals/deposits under the value of 2.5K flux at all times when possible. They are required to maintain a minimum of 5K locked flux value in their balance at all times to insure against any attempts at scamming.
-### v. Georgoi are the lowest officer on distro, can borrow farmers and/or mission ships from the distribution fleet for the purpose of filling them and then being logged, they will repair any major damage incurred to the ships they have borrowed. Standard leasing balance freeze rules apply except for if the individual is the original donor of the ship to the distribution fleet.
-### vi. Tektta are economically focused/interested members of the clan who are also junior members of the distribution structure who are trained on how to operate key distribution systems. They can do the same job of georgoi.
-## d. Communication Department Ranks
-### i. Archons are the communication secretaries. They are responsible for administering and delivering votes and elections (which include communicating that one is happening, collecting every vote, and distributing results), as well do other functions that officers of this department have. In their absence, any citizen can do it. And they have the individual power to demote/promote officers of this department.
-### ii. Epistates are the ministers of communication and can do the archon's job on their behalf.
-### iii. The advertisement officers are responsible to make propaganda about HL, which may include statitcs of clan, make/edit videos, memes, newspapers and others means.
-### iv. The information officers are responsible to help members about with information about the clan, the game, etc; Members may ask them relevant questions.
-## e. Internal Affairs Department Ranks
-### i. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan, if they are not apprentices of a dept. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary. And they have the individual power to demote/promote officers of this department.
-### ii. Politarchs are the ministers of this department, having the power of a singular demarchos. They also must assist with promotions and demotions on other departments.
-### iii. Management officers are responsible for inviting new members for the clan, as well to make reports to comitee on who should receive promotions and demotions.
-### iv. Krypteia ensure that there is no Anti Hellenic sentiments. They are in charge of investigating areas of suspicion internal or external. They are in charge of reporting to the committee about potential threats and liabilities as well as important events and information. A Krypteia should gather evidence and is also encouraged to present a plan of action that may or may not be considered. They are selected by a comitee vote.
-## f. Judiciary Department Ranks
-### i.  Kritai are the secretaries of this department and the members of the the magisterial court. They must conduct judgements, and advocate on cases done on High Court. And have the individual power to promote/demote attorneys.
-### ii. Dikegoroi are the ministers of this department. They can also assist on conduction of judgements, and they must advocate on cases done on Senatorial Court.
-### iii. Attorneys are officers for this department, they must advocate on cases done in Magisterial court.
+### i. Hellehnotamias [Chancellor] (ἑλληνοταμιας) is the archon of economy. They have the collective power to, organise and manage the distribution fleet and to promote/demote officers; and the individual power to handle all withdrawals accountant cannot and promote/demote tektta.
+### ii. Nautrophos [Fleet Maintainer] (ναυτροφος) is the rank of minister in distribution department; They must hold at minimum the military position of corporal and be a Telonis.
+### iii. Telonis [Unloader] (τελωνης) is the officer position that manage a group of farmers and/or mission ships for the Georgoi, they are responsible for unloading, logging and refilling the ships as well as repairing any light damage that is sustained. As a part of their work they log themselves as “unloaders” entitling them to 5% of all produced material. Standard leasing balance freeze rules apply except for if the individual is the original donor of the ship to the distribution fleet.
+### iv. Logistehs [Accountant] (λογιστης) is the officer position that serve the role of handling withdrawals/deposits under the value of 2.5K flux at all times when possible. They are required to maintain a minimum of 5K locked flux value in their balance at all times to insure against any attempts at scamming.
+### vi. Geourgos [Farmer] (γεωργος) is the position of apprendice; They can borrow farmers and/or mission ships from the distribution fleet for the purpose of filling them and then being logged, they will repair any major damage incurred to the ships they have borrowed. Standard leasing balance freeze rules apply except for if the individual is the original donor of the ship to the distribution fleet.
+## d. Internal Affairs Department Ranks
+### i. Demarkhos (Δεμαρκηοσ) is the position of Archon in this department, and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan, if they are not apprentices of a dept. With agreement of both a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or archon. And they have the individual power to demote/promote officers of this department.
+### ii. Politarch (πολιταρχης) is the position of minister of interior. They also must assist with promotions and demotions on other departments.
+### iii. Prosagesthai [Recruiter] προσαγεσθαι is the officer position responsible for inviting new members for the clan, as well to make reports to comitee on who should receive promotions and demotions, which can be based on investigations/studies.
+### iv. Krypteia (κρυπτεια) is the officer role that ensure that there is no Anti Hellenic sentiments. They are in charge of investigating areas of suspicion internal or external. They are in charge of reporting to the committee about potential threats and liabilities as well as important events and information. A Krypteia should gather evidence and is also encouraged to present a plan of action that may or may not be considered. They are selected by a comitee vote.
+## e. Judiciary Department Ranks
+### i. Kritehs [Judge] (κριτης) is the archon position of this department. They must conduct judgements, and advocate on cases done on High Court. And have the individual power to promote/demote attorneys.
+### ii. Dikehgoros [Barrister] (δικηγορος) the minister position. They can also assist on conduction of judgements, and they must advocate on cases done on Senatorial Court.
+### iii. Syndikos [Attorney] (συνδικος) is officer on this department, they must advocate on cases done in Magisterial court.
 ### iv. Anyone can advocate in cases but the ranks above must pick a side and advocate for it.
 ### v. Advocating in court can never fall under the definition of helping a proscribed person.
 
