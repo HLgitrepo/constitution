@@ -99,8 +99,9 @@
 ### xiv. In order to enact the Hellene Pact, a commander, senator or proxenos should try contact the external party, which will have 12h to solve the issue.
 - With the exception of atacks from non-relation clans.
 ### xv. After any change of relations involving HL: Any senator, commander or proxenos that perceives such change must announce in a space considered public - and where HL members can see - to make it official.
-### xvi. In order for a clan with positive relations with HL cancel them unilaterally, the (leadership of the) clan must communicate HL (By opening a ticket or messaging a commander); Which if not any senator, commander or proxenos announce in 12 hours after, the relation will be considered automatically changed.
+### xvi. In order for a clan with positive relations with HL cancel them unilaterally, the (leadership of the) clan must communicate HL (On our discord server, or by messaging a commander or senator); Which if not any senator, commander or proxenos announce in 12 hours after, the relation will be considered automatically changed.
 - This applies to war declaration, otherwise atacks will be considered backstab.
+- If the HL officials responsible for annoucing see an annoucement from the external clan, or get sent from a third party, the war/removal can be announced normally.
 ### xvii. The power of military comitee can remove allies/neutrals/enemies from relations if they think the clan is inactive/hybernated or similar.
 - Smaller powers still apply to other situations like enter neutrality with previous enemies.
 ### xviii. Security deposits can only be seized if the senate and/or assembly agrees that a breach of the terms has happened.
