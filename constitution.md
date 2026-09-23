@@ -68,6 +68,7 @@
 ### vii. All members can vote in elections.
 ### viii. Campaign promises presented in elections by winning candidates are legally binding, unless the assembly later votes against the implementation.
 ### ix. In all elections there shall be a "none of the above" option. If this option wins enough points to be considered a winning candidate then applications for it shall re-open, if the option obtains 2x, 3x, etc the total votes of the top candidate then the number of positions back up for application shall be adjusted proportionally 2, 3, etc. The number of positions which can then be won will be calculated after deducting the number of positions selected for re-opening.
+### x. Election cycle is frozen <THIS LAW CAN BE REMOVED BY AGREEMENT OF 3 CITIZEN>
 ## b. Votes
 - If a vote fail to pass, the status quo is maintained.
 ### i. All citizens can start a vote in the assembly.
@@ -198,7 +199,7 @@
 ### vi. An unranked recruit or citizen should not drive ships in battle unless directly ordered to do so in an emergency. Civilian members are not subject to orders from the military chain of command when not within the proximity of an ongoing, imminently, or very recently, active battle area.
 ## c. Distribution Department Ranks
 ### i. Hellehnotamias [Chancellor] (ἑλληνοταμιας) is the archon of economy. They have the collective power to, organise and manage the distribution fleet and to promote/demote officers; and the individual power to handle all withdrawals accountant cannot and promote/demote tektta.
-### ii. Nautrophos [Fleet Maintainer] (ναυτροφος) is the rank of minister in distribution department; They must hold at minimum the military position of corporal and be a Telonis.
+### ii. Nautrophos [Fleet Maintainer] (ναυτροφος) is the rank of minister in distribution department; They must hold at minimum the military position of corporal and be a Telonis. And they can make withdraw/deposits while in period of frozen election cycle.
 ### iii. Telonis [Unloader] (τελωνης) is the officer position that manage a group of farmers and/or mission ships for the Georgoi, they are responsible for unloading, logging and refilling the ships as well as repairing any light damage that is sustained. As a part of their work they log themselves as “unloaders” entitling them to 5% of all produced material. Standard leasing balance freeze rules apply except for if the individual is the original donor of the ship to the distribution fleet.
 ### iv. Logistehs [Accountant] (λογιστης) is the officer position that serve the role of handling withdrawals/deposits under the value of 2.5K flux at all times when possible. They are required to maintain a minimum of 5K locked flux value in their balance at all times to insure against any attempts at scamming.
 ### vi. Geourgos [Farmer] (γεωργος) is the position of apprendice; They can borrow farmers and/or mission ships from the distribution fleet for the purpose of filling them and then being logged, they will repair any major damage incurred to the ships they have borrowed. Standard leasing balance freeze rules apply except for if the individual is the original donor of the ship to the distribution fleet.
